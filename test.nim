@@ -13,4 +13,4 @@ echo st_dt + ds
 
 echo slice_dates_from_request("2024-01-01","2024-12-26")
 
-get_data_moex("LSNG",slice_dates_from_request("2024-01-01","2024-03-26"))
+get_data_moex("LSNG",slice_dates_from_request("2024-01-01","2024-01-10"))
